@@ -1,4 +1,8 @@
 ## Hi there 👋
+- I’m currently studying master in Unversity of Melbourne
+- 🌱 I’m currently learning Software Engineering
+- 📫 How to reach me: hongxiuw@student.unimelb.edu.au
+- ⚡ Fun fact: I can understand 5 language (a basic for Malaysian XD)
 
 <!--
 **CrispyWooo/CrispyWooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
